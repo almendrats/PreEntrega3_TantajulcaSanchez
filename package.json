@@ -1,0 +1,11 @@
+{
+  "name": "preentrega3_tantajulcasanchez",
+  "version": "1.0.0",
+  "description": "Tutor, subo al repositorio para que no se cierre el plazo.  Voy a actualizar este repositorio con la entrega en un plazo máximo de 48h Gracias y disculpe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
