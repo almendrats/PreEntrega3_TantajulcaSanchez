@@ -1,0 +1,38 @@
+// trabajando en página home
+
+main{padding:10px;}
+h1,h3{text-align: center;}
+h3{text-decoration: overline; font-size: medium;}
+.formularioContacto{text-align: center;}
+ul.social{display:flex; flex-direction: row;}
+li{display:flex; text-decoration: none; padding:20px; justify-content: center;}
+.social{display: flex; justify-content: center;}
+.SM{font-size: small;}
+.copyright{font-size: 8px;}
+.col-xl-4{text-align: center;}
+header{flex-wrap: wrap-reverse;}
+.imglogo{padding-bottom: 20px;}
+.welcome{padding:20px;}
+.navigation{scroll-behavior: smooth;}
+.formulario{margin:20px;}
+
+
+//transicion en redes sociales y decorando footer
+.media{
+    padding:10px;
+    font-size: 20px;
+    transition: 2s;
+}
+.media:hover{
+    padding:20px;
+    font-size: 30px;
+    background-color: bisque;
+}
+
+footer{
+    background-image:linear-gradient(to bottom black, grey, lightgrey)
+}
+
+// acomodando párrafo y elementos col-4
+.welcome{display: flex; flex-direction:column; justify-content:center;}
+.parrafomain{display: flex; flex-direction:column; justify-content:center;font-weight:bold;}
