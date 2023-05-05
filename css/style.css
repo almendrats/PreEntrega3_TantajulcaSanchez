@@ -64,6 +64,10 @@ header {
   margin: 20px;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .media {
   padding: 10px;
   font-size: 20px;
@@ -91,6 +95,24 @@ footer {
   flex-direction: column;
   justify-content: center;
   font-weight: bold;
+}
+
+.tracklist {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.streaming {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+li {
+  text-decoration: none;
+  text-shadow: 1px;
+  text-decoration-line: none;
 }
 
 /*# sourceMappingURL=style.css.map */
